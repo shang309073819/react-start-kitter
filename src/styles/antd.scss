@@ -1,0 +1,27 @@
+:global {
+    .ant-input {
+        //height: 100%;
+        font-size: 14px;
+        //background: #F8F8F8;
+    }
+    .ant-tag {
+        margin-bottom: 3px;
+    }
+
+    .ant-select-selection-selected-value {
+        font-size: 14px;
+    }
+    .ant-spin-nested-loading {
+        width: 100%;
+    }
+    .ant-spin-container {
+        width: 100%;
+    }
+    .ant-select {
+        width: 100%;
+    }
+
+    .ant-badge {
+        vertical-align: sub;
+    }
+}
